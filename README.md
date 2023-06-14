@@ -1,2 +1,5 @@
-# Pytorch_Labs
-Tutorials conducted for Teaching PyTorch to students of Computer Vision Course at SEECS, NUST
+# PyTorch Tutorials
+Colab noteboooks for Pytorch Tutorials are provided in this repository. 
+
+## Credits
+For more information or help you may contact Bostan Khan, Team Lead MachVIS Lab at bostankhan6@gmail.com.
